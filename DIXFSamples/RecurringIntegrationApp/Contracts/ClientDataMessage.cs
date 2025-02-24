@@ -1,5 +1,0 @@
-void
-end
-stop
-delete
-
